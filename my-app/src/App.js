@@ -440,7 +440,7 @@ export default function App() {
       color: "from-blue-500 to-cyan-600",
       image: "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&q=80&w=800",
       // ADDED LINK HERE
-      link: "https://ai-interview-three-khaki.vercel.app/"
+      link: "https://ai-interview-three-mu.vercel.app/"
     },
     {
       title: "Showcase model for Shop",
