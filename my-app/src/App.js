@@ -587,7 +587,7 @@ export default function App() {
                       <div className="text-xs text-gray-400 uppercase tracking-wider">Certificates</div>
                     </div>
                     <div className="bg-white/5 p-3 rounded-lg border border-white/5 hover:bg-white/10 transition-colors">
-                      <div className="text-xl font-bold text-white">5+</div>
+                      <div className="text-xl font-bold text-white">3</div>
                       <div className="text-xs text-gray-400 uppercase tracking-wider">Projects</div>
                     </div>
                   </div>
